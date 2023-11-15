@@ -23,7 +23,9 @@
   box-shadow: -2px -2px 2px #fff , 2px 2px 2px #bbb;
 }
 #linkR:hover{
-  background: rgb(11, 234, 215);
+  /* background: rgb(11, 234, 215); */
+  box-shadow: -2px -2px 2px var(--colorDominator) , 2px 2px 2px var(--colorDominator);
+}
 }
 html{
  width: 100%;
